@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+body{
+	background-color:#3E4F4F;
+	font-family: Helvetica, Arial, sans-serif;
+	margin:0;
+	padding:0;
+	color: #C1C0C0;
+	font-size: 12px;
+}
+.jackhammer{
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    width:400px;
+    text-align: center;
+}
+#jackhammerSVG{
+	/*height:275px;*/
+	height:300px;
+	width:100%;
+	opacity: 0;
+}
+#jackhammer_title{
+	font-size: 2em;
+	margin-top: 2.25em;
+}
